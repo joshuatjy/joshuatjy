@@ -1,7 +1,7 @@
 ## Hello, I'm Joshua Tan! 👋
 
 - 🎓 I'm a computing student in Singapore
-- 💻 Languages and Tools: Python, C, SQL, R, MATLAB, UiPath RPA
+- 💻 Languages and Tools: Python, C, C#, SQL, R, MATLAB, UiPath RPA
 - 🔗 Connect with me on LinkedIn: https://www.linkedin.com/in/joshuatjy/
 - ✨ I'm passionate about using tech to create innovative solutions. Check back soon for updates! 🚀
 
