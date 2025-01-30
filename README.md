@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hello, I'm Joshua Tan! 👋
+
+- 🎓 I'm a computing student in Singapore
+- 💻 Languages and Tools: Python, C, SQL, R, MATLAB, UiPath RPA
+- 🔗 Connect with me on LinkedIn: https://www.linkedin.com/in/joshuatjy/
+- ✨ I'm passionate about using tech to create innovative solutions. Check back soon for updates! 🚀
 
 <!--
 **joshuatjy/joshuatjy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
